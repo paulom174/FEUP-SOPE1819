@@ -1,0 +1,8 @@
+*.o
+*.d
+*.txt
+.vscode/
+user_test
+user
+server
+!/server
